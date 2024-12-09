@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 07:02:18 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>无题</title>
+      <link>https://example.org/posts/%E6%97%A0%E9%A2%98/</link>
+      <pubDate>Sun, 08 Dec 2024 07:02:18 +0800</pubDate>
+      <guid>https://example.org/posts/%E6%97%A0%E9%A2%98/</guid>
+      <description>&lt;p&gt;冥冥中发生的一切，都是最好的安排。&lt;/p&gt;
+&lt;p&gt;我现在是真的这么认为的，就连去Psychiatric ER，被跟放言要伤害别人的黑人brother关在一个房间里聊天，也是最好的安排。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;But I realize that I am not a good software engineer&amp;rdquo;, 我跟Kristine叙说着我的病因。她是一个美丽的心理医生。她跟我说“不，你很优秀”，尽管这只是我们的第一次见面。&lt;/p&gt;
+&lt;p&gt;抑郁症有一份可以用来自我诊断的问卷，九个问题，满分27分，我刚好拿了满分———那意味着一个人已经重度抑郁了。&lt;/p&gt;
+&lt;p&gt;我知道心理医生大概治不好我的病。可是留给我的时间不多了———如果一个月内我完不成给定的任务，我就要被fire了。&lt;/p&gt;
+&lt;p&gt;之前我尝试用FMLA为自己争取时间，可是最后还是用“死，也该死在冲锋的路上”把自己说服了，去开了份健康证明，在严重抑郁的情况下，开始了和时间的赛跑。&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;香港的冬天，终究要比纽约要好过许多。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
